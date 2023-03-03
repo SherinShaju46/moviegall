@@ -1,0 +1,65 @@
+body{
+    color: black;
+    background-image: url("./images/mov.jpg");
+    align-items: center;
+}
+div{
+    align-items: center;
+}
+
+hr{
+    color: whitesmoke
+}
+
+.heading{
+    color: white;
+
+}
+.col{
+    background-color: rgba(255, 255, 255, 0.831);
+    box-shadow: 10px 10px 5px black;
+    border-radius: 10px;
+    height: 550px;
+    width:18%;
+    /* border: black solid 3px; */
+    float: left;
+    padding: 8px;
+    margin: 30px;
+    align-items: center;
+    position: relative;
+}
+
+.col1{
+    margin-left: 40px;
+}
+
+img{
+    width: 80%;
+    height: 200px;
+    padding: 25px;
+}
+
+h2, h3{
+    text-align: center;
+}
+
+.rate{
+    height: 30px;
+    width: 40%;
+    position: absolute;
+    left: 20%;
+    background-color: rgb(19, 44, 9);
+    border: rgb(155, 32, 32) single 3px;
+    bottom: 8%;
+    color: white;
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+.text{
+    padding-left: 30px;
+    padding-top: 10px;
+}
